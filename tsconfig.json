@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "../../out-tsc/app",
+    "module": "commonjs",
+    "strict": true,
+    "target": "es5",
+    "allowSyntheticDefaultImports": true,
+    "types": [
+      "jasmine",
+      "jasminewd2",
+      "node"
+    ]
+  }
+}
